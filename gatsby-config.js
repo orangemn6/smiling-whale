@@ -6,7 +6,6 @@ const shouldAnalyseBundle = process.env.ANALYSE_BUNDLE
 
 module.exports = {
   siteMetadata: {
-   lob/master/themes/gatsby-theme-cara/gatsby-config.js
     siteTitleAlt: `Orangemn6`,
   },
   plugins: [
